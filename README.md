@@ -11,7 +11,7 @@ This program displays all of the MIDI input ports available on your PC, and then
 ![Image showing Nuked Port Selector in use.](images/portselector.png)
 
 ### Prerequisites
-The program requires [Mido's](https://pypi.org/project/mido/) RtMidi backend to be installed for fetching the MIDI input ports.
+The program requires [Mido](https://pypi.org/project/mido/)'s RtMidi backend to be installed for fetching the MIDI input ports.
 ```
 pip install mido[ports-rtmidi]
 ```
