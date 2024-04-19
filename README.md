@@ -27,7 +27,7 @@ Simply place the program in the same folder as Nuked-SC55 and launch it using Py
 python nuked-port-selector.py
 ```
 
-Any command line arguments you give to the program will be passed to Nuked-SC55. For example, if you wanted to lanch Nuked-SC55 in JV-880 mode, you would run this:
+Any command line arguments you give to the program will be passed to Nuked-SC55. For example, if you wanted to launch Nuked-SC55 in JV-880 mode, you would run this:
 ```
 python nuked-port-selector.py -jv880
 ```
