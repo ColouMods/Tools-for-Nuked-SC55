@@ -7,7 +7,7 @@ import os.path
 import sys
 from tabulate import tabulate
 
-executable_path = "sc55emu"
+executable_path = "nuked-sc55"
 arguments = ""
 
 config = configparser.ConfigParser()

@@ -41,7 +41,7 @@ executable_path = path/filename.exe
 arguments = -argument
 ```
 
-- `executable_path` - Sets the path (fixed or relative) to the executable. Defaults to 'sc55emu'.
+- `executable_path` - Sets the path (fixed or relative) to the executable. Defaults to 'nuked-sc55'.
 - `arguments` - Sets command line arguments that will always be passed with the program. Defaults to nothing.
 
 ## Nuked Expansion Selector
